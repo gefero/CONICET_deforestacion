@@ -1,0 +1,26 @@
+{
+    "id": "3FD9F5F4",
+    "path": "/media/grosati/Elements/PEN/Datasets_ML/CONICET_deforestacion/src/1_error_analysis.R",
+    "project_path": "src/1_error_analysis.R",
+    "type": "r_source",
+    "hash": "2765846077",
+    "contents": "",
+    "dirty": false,
+    "created": 1701712636299.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "126,32",
+        "scrollLine": "123"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1701866657,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1701866657761,
+    "read_only": false,
+    "read_only_alternatives": []
+}
